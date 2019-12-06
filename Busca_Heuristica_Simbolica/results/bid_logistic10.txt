@@ -1,0 +1,8 @@
+LOGISTICS-10-0-GROUNDED
+Bidirectional search
+0
+1
+The problem is unsolvable.
+Bidirectional search
+LOGISTICS-10-0-GROUNDED.txt
+Tempo gasto: 28

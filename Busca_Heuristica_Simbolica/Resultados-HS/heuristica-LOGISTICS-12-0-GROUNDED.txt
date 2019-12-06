@@ -1,0 +1,5 @@
+Heuristic computation
+1
+The problem is unsolvable.
+Tempo gasto: 2
+Used memory is bytes: 1361929344

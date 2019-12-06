@@ -1,0 +1,8 @@
+rovers-04-GROUNDED
+Bidirectional search
+0
+1
+The problem is unsolvable.
+Bidirectional search
+rovers-04-GROUNDED.txt
+Tempo gasto: 2

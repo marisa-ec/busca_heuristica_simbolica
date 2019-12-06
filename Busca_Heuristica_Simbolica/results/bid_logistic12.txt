@@ -1,0 +1,58 @@
+LOGISTICS-12-0-GROUNDED
+Bidirectional search
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+Resizing node table from 9000011 to 9049987
+Resizing node table from 9049987 to 9099967
+Resizing node table from 9099967 to 9149951
+Resizing node table from 9149951 to 9199937
+Resizing node table from 9199937 to 9249937
+39
+Resizing node table from 9249937 to 9299933
+Resizing node table from 9299933 to 9349931
+Resizing node table from 9349931 to 9399869
+Resizing node table from 9399869 to 9449857
+Resizing node table from 9449857 to 9499817
+Resizing node table from 9499817 to 9549791
+40
+The problem is solvable.
+Bidirectional search
+LOGISTICS-12-0-GROUNDED.txt
+Tempo gasto: 104132

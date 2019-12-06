@@ -1,0 +1,7 @@
+rovers-04-GROUNDED
+Progressive search
+0
+The problem is unsolvable.
+Progressive search
+rovers-04-GROUNDED.txt
+Tempo gasto: 1

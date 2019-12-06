@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.NullPointerException
+	at pacote.Search.heuristicPlanBackward(Search.java:196)
+	at pacote.Search.heuristcSearch(Search.java:26)
+	at pacote.GUI.main(GUI.java:89)

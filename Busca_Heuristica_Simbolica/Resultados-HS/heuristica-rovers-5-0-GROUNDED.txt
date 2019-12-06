@@ -1,0 +1,41 @@
+Heuristic computation
+1
+2
+3
+4
+5
+6
+7
+Garbage collection #1: 50000017 nodes / 21835205 free / 2.348s / 2.348s total
+Resizing node table from 50000017 to 50050003
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at net.sf.javabdd.JFactory.doResize(JFactory.java:3152)
+	at net.sf.javabdd.JFactory.bdd_noderesize(JFactory.java:3130)
+	at net.sf.javabdd.JFactory.bdd_makenode(JFactory.java:3076)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1356)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1355)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1359)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1355)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1355)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1355)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.or_rec(JFactory.java:1354)
+	at net.sf.javabdd.JFactory.bdd_apply(JFactory.java:1192)
+	at net.sf.javabdd.JFactory$bdd.applyWith(JFactory.java:266)
+	at net.sf.javabdd.BDD.orWith(BDD.java:167)
+	at pacote.Search.heuristicRegression(Search.java:271)
+	at pacote.Search.heuristicPlanBackward(Search.java:219)
+	at pacote.Search.heuristcSearch(Search.java:26)
+	at pacote.GUI.main(GUI.java:90)

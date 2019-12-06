@@ -1,0 +1,4 @@
+initial: null
+Exception in thread "main" java.lang.NullPointerException
+	at pacote.Search.planForward(Search.java:93)
+	at pacote.GUI.main(GUI.java:71)
